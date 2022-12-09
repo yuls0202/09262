@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Array 객체로 배열 만들기</h3>
+    <hr>
+    <script>
+        var degress=new Array(5);
+        for(i=0; sum=0; i < degress.length; i++)
+        {
+            degress[i]=parseFloat(prompt("현재 온도 입력",15));
+            sum +=degress[i];
+        }
+        document.write('degress = {');
+        for(i=0; i<degress.length; i++){
+            if(i==degress.length-1)
+            document.write(degress[i]+']+<br>');
+            else
+            document.write(degress[i]+',');
+        }
+        document.write('합'+sum+'<br>');
+        document.write('평균:'+sum/degress.length+'<br>');
+        document.write('degress=['+ degress.toString()+']');
+    </script>
+</body>
+</html>

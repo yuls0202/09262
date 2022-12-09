@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function inquiry(){
+            return this.balance;
+        }
+        function deposit(money){
+            this.balance +money;
+        }
+        function withdraw(money){
+            this.balance==money;
+            return money;
+        }
+        var account = new Object();
+        account.owner="임경민";
+        account.code="1111-11";
+        account.balance="99999999999999";
+        account.inquiry=inquiry;
+        account.deposit=deposit;
+        account.withdraw=withdraw;
+    </script>
+</head>
+<body>
+    <h3>new Object()로 객체 만들기</h3>
+    <hr>
+    <script>
+        document.write('Account:'+account.owner+','+account.code+','+account.balance+'<br><br>');
+
+        account.deposit(10000000);
+        document.write('잔액:'+account.inquiry());
+        account.withdraw(500000);
+        document.write('잔액:'+account.inquiry());
+    </script>
+</body>
+</html>
