@@ -21,6 +21,5 @@
 [링크의 href에 자바스크립트 작성](https://cool-gecko-49ce8c.netlify.app/)<br>
 [자바스크립트 전역함수](https://starlit-gelato-18485a.netlify.app/)<br>
 [윤년 계산하기](https://splendid-trifle-49ab38.netlify.app/)<br>
-[객채의 메소드 활용](https://jolly-naiad-ea97a0.netlify.app/)<br>
 [구구단 연습하기](https://euphonious-florentine-bc48be.netlify.app/)<br>
 [태그 이름으로 DOM 객체 찾기](https://precious-medovik-d268b7.netlify.app/)<br>
