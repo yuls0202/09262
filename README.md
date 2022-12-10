@@ -23,3 +23,5 @@
 [윤년 계산하기](https://splendid-trifle-49ab38.netlify.app/)<br>
 [구구단 연습하기](https://euphonious-florentine-bc48be.netlify.app/)<br>
 [태그 이름으로 DOM 객체 찾기](https://precious-medovik-d268b7.netlify.app/)<br>
+[new image()로 이미지 로딩하기](https://effulgent-cannoli-92a4ff.netlify.app/)<br>
+[익명함수로 이벤트 리스너 작성](https://jade-alpaca-c8c9a4.netlify.app/)<br>
