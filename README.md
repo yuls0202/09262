@@ -23,3 +23,4 @@
 [윤년 계산하기](https://splendid-trifle-49ab38.netlify.app/)<br>
 [객채의 메소드 활용](https://jolly-naiad-ea97a0.netlify.app/)<br>
 [구구단 연습하기](https://euphonious-florentine-bc48be.netlify.app/)<br>
+[태그 이름으로 DOM 객체 찾기](https://precious-medovik-d268b7.netlify.app/)<br>
